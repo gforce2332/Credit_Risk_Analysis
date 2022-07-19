@@ -45,7 +45,7 @@ Objective of this project was to use machine learning models to analyze credit r
 
 ## Summary
 
-Sensitivity is more valuable than precision for analyzing risk and default loans in the financial industry on loan candidates. In order to prevent loan defaults it would be important for financial institutions to be able to identify those high risk individuals. Precision isn't as important since a good candidates mistakenly flagged as high risk could receive further review. 
+Sensitivity is more valuable than precision for analyzing risk and default loans in the financial industry on loan candidates. In order to prevent loan defaults it would be important for financial institutions to be able to identify those high risk individuals. Precision isn't as important since a good candidate mistakenly flagged as high-risk could receive further review. 
 
 All six algorithms had a fairly low precision rate for high risk individuals. Since the Easy Ensemble AdaBoost Classifier had the highest precision rate at 7%, this is still pretty low and can be determined that out of all the customers flagged as high-risk, 7% actually were. With regards to the low-risk, all the models had a perfect precision with all the low-risk customers flagged correctly.
 
